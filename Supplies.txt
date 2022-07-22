@@ -1,6 +1,0 @@
-shampoo,L'Oreal,L'Oreal Shampoo,7.0,89.0,13.0,5
-hair dye,L'Oreal,L'Oreal Ash Brown Dye,9.48,20.0,6.0,L'Oreal Paris Superior Preference
-hair dye,Revlon,Revlon Dark BrownDye,7.12,3.0,6.0,Revlon Colorsilk Hair Color
-shampoo,olaplex,No.4 Bond Maintenance Shampoo,81.0,3.0,1.0, Patented hair bonder 67.62 fl oz
-conditioner,pureology,hydrate conditioner,57.0,3.0,2.0,1L
-shampoo,Wella,Invigo,47.99,4.0,2.0,Brilliance fine/normal duo 33.8oz

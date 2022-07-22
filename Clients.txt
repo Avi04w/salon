@@ -1,9 +1,0 @@
-Trish Paytus,289-765-0213,1609 Centenniel st.,28,Trishfish29@hotmail.com,female,none,Retinol and Dabigatran,none,none,none
-Avina Whiley,527-907-6386,34 Woodstruck rd,37,Aviawhiley@gmail.com,female,grass,Escitalopram,haircut,hair gel,none
-Mandel Zhac,386-901-8735,17 Procter cres,55,Mandelzhac@yahoo.com,male,dust and latex,Minoxidil and Verapamil,colouring,none,none
-Paola Russo,598-092-4930,973 Slate Creek,35,PaolaR@gmail.com,female,soy,Anthralin,foils,pureology purple shampoo,none
-Elliot Newman,178-036-0267,1594 Zeer rd,29,Elliotnewman@gmail.com,male,ibuprofen and scents,Mephenesin and Citalopram,none,none,none
-Bennet Vraiz,893-904-0128,78 Whilton st,42,Bennvraiz@gmai.com,male,scents,Valproic acid and Adderall,none,none,none
-Avi Walia,418-234-1234,99 Crescent Lane,178,avi@gmail.com,male,none,none,none,none,none
-sadas,2132131,sasdasdas,123,sadsadsa,male,none,none,none,none,none
-Avi Walia,416-666-6666,82 Crescent Lane,23,aviW@gmail.com,male,none,none,none,none,none
